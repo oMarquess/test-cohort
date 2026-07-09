@@ -1,7 +1,7 @@
 def greet(name: str) -> str:
     """Returns a personalized greeting message."""
     if not name:
-        return "Hello, World!"
+        return "Hello, UPSA Students!"
     return f"Hello, {name}!"
 
 if __name__ == "__main__":
