@@ -5,4 +5,4 @@ def test_greet_with_name():
     assert greet("Bob") == "Hello, Bob!"
 
 def test_greet_empty_name():
-    assert greet("") == "Hello, World!"
+    assert greet("") == "Hello, UPSA Students!"
